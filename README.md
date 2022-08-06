@@ -1,7 +1,7 @@
 ### Olá! eu sou a Ewellyn Santos
 
-- 🔭 Hoje eu trabalho com Infraestutrutura e suporte
-- 🌱 Estudando Sistemas de Informação
+- 🔭 Hoje eu trabalho na área de Infraestutrutura e Suporte
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 contate-me no e-mail: ewellynsnt@icloud.com 
 - 😄 Pronouns: ela/dela
 
