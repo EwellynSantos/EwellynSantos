@@ -1,4 +1,4 @@
-### Olá! eu sou a Ewellyn Santos
+### Oi! eu sou a Ewellyn Santos, desenvolvedora de Software.
 
 <div align="center">
   <a href="https://github.com/EwellynSantos">
