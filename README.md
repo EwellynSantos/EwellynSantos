@@ -1,10 +1,5 @@
 ### Olá! eu sou a Ewellyn Santos
 
-- 🔭 Hoje eu trabalho na área de Infraestrutura e Suporte
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 📫 contate-me no e-mail: ewellynsnt@icloud.com 
-- 😄 Pronouns: ela/dela
-
 <div align="center">
   <a href="https://github.com/EwellynSantos">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EwellynSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
