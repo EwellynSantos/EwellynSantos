@@ -1,4 +1,4 @@
-### Oi! eu sou a Ewellyn Santos, Desenvolvedora de Software.
+### Hi! I'm Ewellyn Santos, Software Developer.
 
 <div align="center">
   <a href="https://github.com/EwellynSantos">
